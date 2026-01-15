@@ -12,7 +12,7 @@ from datetime import datetime, date, timezone, timedelta
 
 BOT_TOKEN = "PUt_YOUR_DISCORD_BOT_TOKEN_HERE"
 WARERA_TOKEN = "Put_YOUR_WARERA_API_TOKEN_HERE"
-COUNTRY_ID = "6813b6d546e731854c7ac845"
+COUNTRY_ID = "Put_your_country_id_here"
 DB_FILE = "tax_bot.db"
 
 intents = discord.Intents.default()
